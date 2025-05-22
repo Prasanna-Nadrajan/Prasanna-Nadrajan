@@ -6,7 +6,7 @@ I'm a passionate **Data Scientist** and **Developer**, currently a student at **
 ## 🚀 Technical Skills
 - 💡 **Data Science**: Python, R, Machine Learning, Deep Learning
 - 📊 **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau
-- 🛠 **Software Development**: JavaScript, HTML, CSS
+- 🛠 **Development**: HTML, CSS
 - 📂 **Databases**: SQL, MongoDB, Firebase
 - 🖥 **Cloud & DevOps**: AWS, Docker
 
