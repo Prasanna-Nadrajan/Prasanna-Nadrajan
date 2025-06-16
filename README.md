@@ -8,7 +8,7 @@ I'm a passionate **Data Scientist** and **Developer**, currently a student at **
 - 📊 **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau
 - 🛠 **Development**: HTML, CSS
 - 📂 **Databases**: SQL, MongoDB, Firebase
-- 🖥 **Cloud & DevOps**: AWS, Docker
+- 🖥 **Cloud & DevOps**: AWS, Learning about Docker
 
 ## ✨ Projects
 Here are some cool projects I’ve worked on:
