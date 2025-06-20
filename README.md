@@ -4,7 +4,7 @@
 I'm a passionate **Data Scientist** and **Developer**, currently a student at **REC**. I love exploring the intersection of **data science**, **software development**, and solving real-world problems with innovative solutions.
 
 ## 🚀 Technical Skills
-- 💡 **Data Science**: Python, R, Machine Learning, Deep Learning
+- 💡 **Data Science**: Python, R, AI and ML
 - 📊 **Data Visualization**: Matplotlib, Seaborn, Power BI, Tableau
 - 🛠 **Development**: HTML, CSS
 - 📂 **Databases**: SQL, MongoDB, Firebase
