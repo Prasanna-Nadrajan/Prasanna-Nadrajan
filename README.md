@@ -12,8 +12,9 @@ I'm a passionate **Data Scientist** and **Developer**, currently a student at **
 
 ## ✨ Projects
 Here are some cool projects I’ve worked on:
-- **[Loan-Eligibility-Detector](#)** - A simple yet efficient ai model trained by me using datasets in kaggle to predict whether a applicant is eligible for the applied loan or not
-
+- **[Loan-Eligibility-Detector](#)** - A simple yet efficient ai model trained by me using datasets in kaggle to predict whether a applicant is eligible for the applied loan or not.
+- **[Ambulance-Traffic-Controller](#)** – An AI-powered real-time system developed by me to detect ambulances in traffic using computer vision and automatically switch nearby traffic lights to green for quick clearance.
+  
 ## 🌱 What I'm Learning
 I'm always eager to **learn and experiment** with new technologies. Currently, I'm diving deep into:
 - Advanced Machine Learning techniques
