@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Prasanna Nadrajan   
 
-## 🏫 About Me
+## 🏫 About Me...
 I'm a passionate **Data Scientist** and **Developer**, currently a student at **REC**. I love exploring the intersection of **data science**, **software development**, and solving real-world problems with innovative solutions.
 
 ## 🚀 Technical Skills
