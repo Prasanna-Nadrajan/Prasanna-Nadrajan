@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prasanna Nadrajan
-
+ 
 ## 🏫 About Me
 I'm a passionate Data Scientist and student at REC. My focus is on using data science and software development to solve real-world problems. I combine a strong academic foundation with practical application, building and deploying intelligent systems.
 
