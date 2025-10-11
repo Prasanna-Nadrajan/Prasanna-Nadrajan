@@ -11,7 +11,7 @@ I'm a passionate Data Scientist and student at REC. My focus is on using data sc
 - Proficient in Python (Pandas, NumPy), R, AI, and ML  
 - Experienced with Scikit-learn, TensorFlow, and Keras for model building
 
-### 📊 Data Visualization
+### 📊 Data Visualization 
 - Skilled in Matplotlib and Seaborn  
 - Proficient with Power BI and Tableau for interactive dashboards
 
