@@ -58,7 +58,7 @@ I'm a passionate Data Scientist and student at REC. My focus is on using data sc
 - **Full-stack Development**  
   Backend technologies like Node.js and Express.js for scalable web apps
 
----
+--- 
 
 ## 📫 Connect with Me
 
