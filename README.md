@@ -88,7 +88,7 @@
 ## 🏆 Achievements & Stats
 
 - 🌟 **5-Star Coder** @ HackerRank (Python, C, Java, SQL, Problem Solving)
-- 🧩 **100+ Problems Solved** @ LeetCode
+- 🧩 **200+ Problems Solved** @ LeetCode
 - 🥉 **3rd Position** @ CodeSapiens Git-in-Kadhai
 
 <div align="center">
