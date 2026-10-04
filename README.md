@@ -14,8 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <br />
-  
-  <img src="https://komarev.com/ghpvc/?username=Prasanna-Nadrajan&style=for-the-badge&color=2196F3" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Prasanna-Nadrajan&style=for-the-badge&color=2196F3" alt="Profile Views" />
 </div>
 
 <br />
