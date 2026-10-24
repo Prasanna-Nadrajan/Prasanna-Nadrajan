@@ -72,11 +72,13 @@ currently_exploring:
   - MLOps & Production Model Deployment
   - Transformer Architectures
   - Advanced Satellite Image Processing
+  - Transformer Architectures
+  - MLOps & Model Deployment
 
-open_source:
-  - Competitive Programming (LeetCode, HackerRank)
-  - Contributing to ML & Data tooling
-  - Building developer utilities
+hobbies:
+  - Competitive Programming
+  - Open Source Contributing
+  - Exploring New Tech
 ```
 
 </details>
@@ -204,22 +206,22 @@ open_source:
   </thead>
   <tbody>
     <tr>
-      <td><b>Data Science Intern</b></td>
-      <td><b>Evo Astra Ventures</b></td>
-      <td>Dec 2025 - Jan 2026</td>
-      <td>Building predictive analytics models and driving business insights through large-scale data analysis.</td>
-    </tr>
-    <tr>
       <td><b>Intern Trainee</b></td>
       <td><b>Indian Space Academy</b></td>
-      <td>Dec 2025 - Present</td>
+      <td>Dec 2025 - Feb 2026</td>
       <td>Analyzing satellite imagery and geospatial data using QGIS and ArcGIS for environmental studies.</td>
     </tr>
     <tr>
       <td><b>Data Analyst Associate</b></td>
       <td><b>Analyse Research Quant (ARQ)</b></td>
-      <td>Sep 2025 - Present</td>
-      <td>Leading hackathons and building predictive models with 85%+ accuracy.</td>
+      <td>Sep 2025 - Aug 2026</td>
+      <td>Leading Technical Events of the Dept of Artificial Intelligence and Data Science Club and building predictive models with 85%+ accuracy.</td>
+    </tr>
+    <tr>
+      <td><b>Data Analyst Intern</b></td>
+      <td><b>Hyundai Motor India Limited</b></td>
+      <td>Aug 2026 - Present</td>
+      <td>Building Continuos Control Monitoring Systems, Automating Audits, Building predictive analytics models and driving business insights through large-scale data analysis.</td>
     </tr>
   </tbody>
 </table>
