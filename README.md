@@ -96,8 +96,8 @@ hobbies:
   <!-- GitHub Stats Card -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
   
-  <!-- Streak Stats -->
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Prasanna-Nadrajan&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=FF6F00&currStreakLabel=2196F3&sideLabels=C9D1D9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <!-- Streak Stats (demolab) -->
+  <img width="49%" src="https://streak-stats.demolab.com?user=Prasanna-Nadrajan&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=FF6F00&currStreakLabel=2196F3&sideLabels=C9D1D9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -108,9 +108,9 @@ hobbies:
 
 </div>
 
-<!-- Activity Graph -->
+<!-- Contribution Heatmap / Activity -->
 <div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prasanna-Nadrajan&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&area_color=2196F3&hide_border=true&custom_title=📈%20Contribution%20Activity%20Graph" alt="Activity Graph" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasanna-Nadrajan&theme=tokyonight" alt="Contribution Activity Graph" />
 </div>
 
 ---
@@ -123,36 +123,31 @@ hobbies:
 
 <div align="center">
 
-  <!-- GitHub Profile Summary Cards -->
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasanna-Nadrajan&theme=tokyonight" alt="Profile Details" />
-
-</div>
-
-<div align="center">
-
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prasanna-Nadrajan&theme=tokyonight" alt="Repos per Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prasanna-Nadrajan&theme=tokyonight" alt="Most Commit Language" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prasanna-Nadrajan&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prasanna-Nadrajan&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)" />
 
 </div>
 
 <div align="center">
-
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasanna-Nadrajan&theme=tokyonight" alt="Stats" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Prasanna-Nadrajan&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-
+  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasanna-Nadrajan&theme=tokyonight" alt="Profile Stats" />
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB TROPHIES                            -->
+<!--                          GITHUB HIGHLIGHTS                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prasanna-Nadrajan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+
+  <!-- PRs merged, reviews & discussions — data unique to this section -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered" alt="PRs & Reviews Stats" />
+  <!-- Compact language breakdown — different view from the donut above -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
+
 </div>
 
 ---
@@ -345,11 +340,6 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                           FOOTER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:2196F3&height=120&section=footer" width="100%" />
-</div>
-
 <p align="center">
   <b><i>"Turning data into insights and code into solutions."</i></b>
 </p>
@@ -357,3 +347,9 @@ hobbies:
 <p align="center">
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-2196F3?style=for-the-badge" alt="Thanks" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:2196F3&height=120&section=footer" width="100%" />
+</div>
+
+
