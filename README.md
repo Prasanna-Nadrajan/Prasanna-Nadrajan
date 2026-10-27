@@ -72,8 +72,12 @@ currently_exploring:
   - MLOps & Production Model Deployment
   - Transformer Architectures
   - Advanced Satellite Image Processing
-  - Transformer Architectures
-  - MLOps & Model Deployment
+  - AWS Cloud Architecture
+
+languages_spoken:
+  - English  🇬🇧
+  - Tamil    🇮🇳
+  - Japanese 🇯🇵  (JLPT N5)   # 少しだけ日本語が話せます ✨
 
 hobbies:
   - Competitive Programming
@@ -82,6 +86,40 @@ hobbies:
 ```
 
 </details>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!--                       CERTIFICATIONS & BADGES                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════ -->
+
+## 🎖️ Certifications & Badges
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="top" width="200">
+      <a href="https://www.credly.com/badges/5499c14d-2b3c-4bf5-bfb4-047287c2c624" target="_blank">
+        <img src="assets/images/aws-certified-ai-practitioner (1).png" width="170" alt="AWS Certified AI Practitioner" />
+      </a>
+      <br />
+      <b>AWS Certified AI Practitioner</b>
+      <br />
+      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td width="40"></td>
+    <td align="center" valign="top" width="200">
+      <img src="assets/images/jlpt-n5-badge.jpg" width="170" alt="JLPT N5 Certified" />
+      <br />
+      <b>JLPT N5 Certified</b>
+      <br />
+      <img src="https://img.shields.io/badge/日本語-N5-6C3483?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0xIDE1aC0ydi02aDJ2NnptMC04aC0yVjdoMnYyeiIvPjwvc3ZnPg==&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
@@ -216,7 +254,7 @@ hobbies:
       <td><b>Data Analyst Intern</b></td>
       <td><b>Hyundai Motor India Limited</b></td>
       <td>Aug 2026 - Present</td>
-      <td>Building Continuos Control Monitoring Systems, Automating Audits, Building predictive analytics models and driving business insights through large-scale data analysis.</td>
+      <td>Building Continuous Control Monitoring Systems, Automating Audits, Building predictive analytics models and driving business insights through large-scale data analysis.</td>
     </tr>
   </tbody>
 </table>
@@ -337,6 +375,11 @@ hobbies:
 
 ---
 
+<!-- Japanese animation strip — subtle nod to N5, not the headline act 🌸 -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Noto+Sans+JP&weight=400&size=14&pause=3000&color=556677&center=true&vCenter=true&multiline=false&repeat=true&width=420&height=28&lines=データで世界を変える。&duration=4000" alt="データで世界を変える。" />
+</div>
+
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                           FOOTER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -351,5 +394,3 @@ hobbies:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:2196F3&height=120&section=footer" width="100%" />
 </div>
-
-
