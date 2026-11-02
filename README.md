@@ -3,11 +3,11 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:2196F3&height=220&section=header&text=Prasanna%20Nadrajan%20R&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0f3460,70:16213e,100:2196F3&height=250&section=header&text=Prasanna%20Nadrajan%20R&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer&descSize=20&descAlignY=58&descAlign=50" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=📊+Data+Analytics+%26+Predictive+Modeling;🧠+Machine+Learning+%26+Computer+Vision;🛰️+Remote+Sensing+%26+Geospatial+Intelligence;🚀+Building+Data-Driven+Systems+at+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=📊+Data+Analytics+%26+Predictive+Modeling;🧠+Machine+Learning+%26+Computer+Vision;🛰️+Remote+Sensing+%26+Geospatial+Intelligence;🚀+Building+Data-Driven+Systems+at+Scale" alt="Typing SVG" />
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -51,22 +51,26 @@
 </p>
 
 <details>
-<summary align="center"><b>⚡ Quick Facts About Me</b></summary>
+<summary align="center"><b>⚡ Quick Facts — <code>cat ./prasanna.yaml</code></b></summary>
 <br />
 
 ```yaml
+# ╔══════════════════════════════════════════╗
+# ║         prasanna.config.yaml             ║
+# ╚══════════════════════════════════════════╝
+
 name: Prasanna Nadrajan R
-location: Chennai, India
+location: Chennai, India 🇮🇳
 current_role: Data Analyst @ Hyundai Motor India Limited
-background: AI & Data Science (B.Tech, Rajalakshmi Engineering College)
+education: B.Tech — AI & Data Science, Rajalakshmi Engineering College
 
 specializations:
-  - Predictive Analytics & Business Intelligence
-  - Machine Learning & Deep Learning
-  - Computer Vision & Image Processing
-  - Remote Sensing & Geospatial Intelligence
-  - Full-Stack Development
-  - Continuous Control Monitoring & Audit Automation
+  - 📊 Predictive Analytics & Business Intelligence
+  - 🤖 Machine Learning & Deep Learning
+  - 👁️  Computer Vision & Image Processing
+  - 🛰️  Remote Sensing & Geospatial Intelligence
+  - 🌐 Full-Stack Development
+  - 🔍 Continuous Control Monitoring & Audit Automation
 
 currently_exploring:
   - MLOps & Production Model Deployment
@@ -80,9 +84,14 @@ languages_spoken:
   - Japanese 🇯🇵  (JLPT N5)   # 少しだけ日本語が話せます ✨
 
 hobbies:
-  - Competitive Programming
-  - Open Source Contributing
-  - Exploring New Tech
+  - 💻 Competitive Programming
+  - 🔓 Open Source Contributing
+  - 🚀 Exploring Emerging Tech
+  - ⚙️  MLOps & Production Model Deployment
+  - 🔮 Transformer Architectures & LLMs
+  - 🌍 Advanced Satellite Image Processing
+
+status: always_building: true
 ```
 
 </details>
@@ -132,21 +141,21 @@ hobbies:
 <div align="center">
 
   <!-- GitHub Stats Card -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  
-  <!-- Streak Stats (demolab) -->
-  <img width="49%" src="https://streak-stats.demolab.com?user=Prasanna-Nadrajan&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=FF6F00&currStreakLabel=2196F3&sideLabels=C9D1D9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img height="180em" src="https://streak-stats.demolab.com?user=Prasanna-Nadrajan&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=FF6F00&currStreakLabel=2196F3&sideLabels=C9D1D9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-  <!-- Top Languages -->
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  <!-- Top Languages Donut -->
+  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
-<!-- Contribution Heatmap / Activity -->
+<!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasanna-Nadrajan&theme=tokyonight" alt="Contribution Activity Graph" />
 </div>
@@ -181,10 +190,11 @@ hobbies:
 
 <div align="center">
 
-  <!-- PRs merged, reviews & discussions — data unique to this section -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered" alt="PRs & Reviews Stats" />
-  <!-- Compact language breakdown — different view from the donut above -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
+  <!-- PRs merged, reviews & discussions -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered" alt="PRs & Reviews Stats" />
+
+  <!-- Compact language breakdown -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
 
 </div>
 
@@ -201,19 +211,27 @@ hobbies:
 ### 🔤 Languages
 <img src="https://skillicons.dev/icons?i=python,r,java,c,typescript,javascript&theme=dark" alt="Languages" />
 
+<br /><br />
+
 ### 🤖 Machine Learning & Data Science
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="ML" />
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark" alt="ML Core" />
+<br />
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white&labelColor=0D1117" />
+
+<br /><br />
 
 ### 🌐 Web & Frameworks
 <img src="https://skillicons.dev/icons?i=react,nextjs,vite,nodejs,express,html,css,tailwind&theme=dark" alt="Web" />
 
+<br /><br />
+
 ### 🗄️ Databases & Cloud
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,gcp,aws,docker&theme=dark" alt="Databases & Cloud" />
+
+<br /><br />
 
 ### 🔧 Tools & Platforms
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman&theme=dark" alt="Tools" />
@@ -228,6 +246,16 @@ hobbies:
 
 ## 💼 Work Experience
 
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          $ cat work_experience.log                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 <table align="center">
   <thead>
     <tr>
@@ -239,22 +267,26 @@ hobbies:
   </thead>
   <tbody>
     <tr>
-      <td><b>Intern Trainee</b></td>
-      <td><b>Indian Space Academy</b></td>
-      <td>Dec 2025 - Feb 2026</td>
-      <td>Analyzing satellite imagery and geospatial data using QGIS and ArcGIS for environmental studies.</td>
+      <td><b>Data Analyst Intern</b></td>
+      <td><b>Hyundai Motor India Limited</b></td>
+      <td>Aug 2026 – Present</td>
+      <td>Building Continuous Control Monitoring Systems, Automating Audits, building predictive analytics models and driving business insights through large-scale data analysis.</td>
     </tr>
     <tr>
       <td><b>Data Analyst Associate</b></td>
       <td><b>Analyse Research Quant (ARQ)</b></td>
-      <td>Sep 2025 - Aug 2026</td>
-      <td>Leading Technical Events of the Dept of Artificial Intelligence and Data Science Club and building predictive models with 85%+ accuracy.</td>
+      <td>Sep 2025 – Aug 2026</td>
+      <td>Leading Technical Events of the Dept of AI & Data Science Club and building predictive models with 85%+ accuracy.</td>
     </tr>
     <tr>
       <td><b>Data Analyst Intern</b></td>
       <td><b>Hyundai Motor India Limited</b></td>
       <td>Aug 2026 - Present</td>
       <td>Building Continuous Control Monitoring Systems, Automating Audits, Building predictive analytics models and driving business insights through large-scale data analysis.</td>
+      <td><b>Intern Trainee</b></td>
+      <td><b>Indian Space Academy</b></td>
+      <td>Dec 2025 – Feb 2026</td>
+      <td>Analyzing satellite imagery and geospatial data using QGIS and ArcGIS for environmental studies.</td>
     </tr>
   </tbody>
 </table>
@@ -275,18 +307,18 @@ hobbies:
       <h3 align="center">🛰️ AI-Driven LULC Classification</h3>
       <p align="center">AI system using Random Forest & SVM on Sentinel-2 satellite imagery for accurate terrain mapping and land use classification.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/sklearn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
-        <img src="https://img.shields.io/badge/GIS-4285F4?style=flat&logo=google-earth&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+        <img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google-earth&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🧬 eDNA-VAI-PIPELINE</h3>
       <p align="center">Deep Learning pipeline using Variational Autoencoders (VAE) to cluster and identify deep-sea biodiversity patterns.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-        <img src="https://img.shields.io/badge/VAE-D00000?style=flat&logo=keras&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -295,29 +327,29 @@ hobbies:
       <h3 align="center">🚑 Ambulance Detection System</h3>
       <p align="center">Real-time emergency vehicle detection using Computer Vision to automate traffic signal priority for faster response.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-010101?style=flat&logo=iot&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/IoT-CC0000?style=flat-square&logo=raspberrypi&logoColor=white" />
       </p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏝️ Island Rescue Mission</h3>
       <p align="center">Crisis management dashboard using Power BI and Python ML to coordinate rescue operations and resource allocation.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+        <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" colspan="2">
       <h3 align="center">🎬 StreamVerse OTT</h3>
-      <p align="center">A modern streaming platform built with React, Vite, and TMDb API integration — featuring sleek UI and dynamic content.</p>
+      <p align="center">A modern streaming platform built with React, Vite, and TMDb API integration — featuring sleek UI and dynamic content discovery.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
-        <img src="https://img.shields.io/badge/TMDb_API-01D277?style=flat&logo=themoviedatabase&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/TMDb_API-01D277?style=flat-square&logo=themoviedatabase&logoColor=white" />
       </p>
     </td>
   </tr>
@@ -337,9 +369,9 @@ hobbies:
 
 | 🏷️ Platform | 🎯 Achievement |
 | :---: | :--- |
-| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat&logo=hackerrank&logoColor=white" /> | ⭐ **5-Star Coder** — Python, C, Java, SQL, Problem Solving |
-| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" /> | 🧩 **200+ Problems Solved** — Data Structures & Algorithms |
-| <img src="https://img.shields.io/badge/CodeSapiens-181717?style=flat&logo=github&logoColor=white" /> | 🥉 **3rd Place** — Git-in-Kadhai Hackathon |
+| <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" /> | ⭐ **5-Star Coder** — Python, C, Java, SQL, Problem Solving |
+| <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /> | 🧩 **200+ Problems Solved** — Data Structures & Algorithms |
+| <img src="https://img.shields.io/badge/CodeSapiens-181717?style=flat-square&logo=github&logoColor=white" /> | 🥉 **3rd Place** — Git-in-Kadhai Hackathon |
 
 </div>
 
@@ -350,10 +382,6 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="game.gif" alt="Space Shooter Animation" />
-</div>
 
 <div align="center">
   <picture>
@@ -373,7 +401,7 @@ hobbies:
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
----
+<br />
 
 <!-- Japanese animation strip — subtle nod to N5, not the headline act 🌸 -->
 <div align="center">
@@ -383,14 +411,17 @@ hobbies:
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                           FOOTER                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<p align="center">
-  <b><i>"Turning data into insights and code into solutions."</i></b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Thanks_for_visiting!-2196F3?style=for-the-badge" alt="Thanks" />
-</p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1A1B27,100:2196F3&height=120&section=footer" width="100%" />
+
+```
+╔══════════════════════════════════════════════════════════╗
+║  > "Turning data into insights and code into solutions"  ║
+║                                                          ║
+║          — Prasanna Nadrajan R  |  prasazx.tech          ║
+╚══════════════════════════════════════════════════════════╝
+```
+
+  <img src="https://img.shields.io/badge/Thanks_for_visiting!-2196F3?style=for-the-badge" alt="Thanks" />
+
 </div>
