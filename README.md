@@ -250,7 +250,7 @@ status: always_building: true
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║                          $ cat work_experience.log                         ║
+║                          $ cat work_experience.log                           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -283,10 +283,6 @@ status: always_building: true
       <td><b>Hyundai Motor India Limited</b></td>
       <td>Aug 2026 - Present</td>
       <td>Building Continuous Control Monitoring Systems, Automating Audits, Building predictive analytics models and driving business insights through large-scale data analysis.</td>
-      <td><b>Intern Trainee</b></td>
-      <td><b>Indian Space Academy</b></td>
-      <td>Dec 2025 – Feb 2026</td>
-      <td>Analyzing satellite imagery and geospatial data using QGIS and ArcGIS for environmental studies.</td>
     </tr>
   </tbody>
 </table>
