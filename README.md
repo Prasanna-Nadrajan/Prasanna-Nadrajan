@@ -396,3 +396,7 @@ status: always_building: true
   <img src="https://img.shields.io/badge/Thanks_for_visiting!-2196F3?style=for-the-badge" alt="Thanks" />
 
 </div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0f3460,70:16213e,100:2196F3&height=120&section=footer" width="100%" />
+</div>
