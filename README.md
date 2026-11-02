@@ -9,7 +9,8 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=2196F3&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=110&lines=📊+Data+Analytics+%26+Predictive+Modeling;🧠+Machine+Learning+%26+Computer+Vision;🛰️+Remote+Sensing+%26+Geospatial+Intelligence;🚀+Building+Data-Driven+Systems+at+Scale" alt="Typing SVG" />
 </div>
-
+<br>
+<br>
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 <!--                         SOCIAL BADGES                               -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
@@ -382,6 +383,13 @@ status: always_building: true
 <!-- 🚀 Space Shooter — contributions as starfields -->
 <div align="center">
   <img src="game.gif" alt="Space Shooter Contribution Animation" width="100%" />
+</div>
+
+<!-- 🐟 Git Koi — pixel-art koi drawn from your GitHub activity -->
+<div align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub Koi — colored by languages, grown by contributions" />
+  <br />
+  <sub>🐟 A pixel-art koi that evolves with my GitHub activity — redrawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
 </div>
 
 <!-- Snake contribution graph -->
