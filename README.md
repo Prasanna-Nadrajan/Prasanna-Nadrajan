@@ -379,6 +379,12 @@ status: always_building: true
 
 ## 🐍 Contribution Graph
 
+<!-- 🚀 Space Shooter — contributions as starfields -->
+<div align="center">
+  <img src="game.gif" alt="Space Shooter Contribution Animation" width="100%" />
+</div>
+
+<!-- Snake contribution graph -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prasanna-Nadrajan/Prasanna-Nadrajan/output/github-snake-dark.svg" />
