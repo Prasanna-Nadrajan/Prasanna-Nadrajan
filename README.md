@@ -139,35 +139,14 @@ status: always_building: true
 
 ## 📊 GitHub Stats & Open Source Contributions
 
-<div align="center">
-
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-
-  <!-- Streak Stats -->
-  <img height="180em" src="https://streak-stats.demolab.com?user=Prasanna-Nadrajan&theme=tokyonight&hide_border=true&background=0D1117&ring=2196F3&fire=FF6F00&currStreakLabel=2196F3&sideLabels=C9D1D9&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-  <!-- Top Languages Donut -->
-  <img height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
-
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
 
 <!-- Activity Graph -->
 <div align="center">
   <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasanna-Nadrajan&theme=tokyonight" alt="Contribution Activity Graph" />
 </div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                        OS CONTRIBUTION METRICS                      -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🌍 Open Source Contribution Metrics
 
 <div align="center">
 
@@ -179,24 +158,6 @@ status: always_building: true
 
 <div align="center">
   <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasanna-Nadrajan&theme=tokyonight" alt="Profile Stats" />
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                          GITHUB HIGHLIGHTS                          -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-
-## 🏆 GitHub Highlights
-
-<div align="center">
-
-  <!-- PRs merged, reviews & discussions -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&show=reviews,prs_merged,prs_merged_percentage,discussions_started,discussions_answered" alt="PRs & Reviews Stats" />
-
-  <!-- Compact language breakdown -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
-
 </div>
 
 ---
