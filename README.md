@@ -139,9 +139,10 @@ status: always_building: true
 
 ## 📊 GitHub Stats & Open Source Contributions
 
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Prasanna-Nadrajan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&icon_color=2196F3&text_color=C9D1D9&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
+</div>
 
 <!-- Activity Graph -->
 <div align="center">
@@ -348,7 +349,9 @@ status: always_building: true
 
 <!-- 🐟 Git Koi — pixel-art koi drawn from your GitHub activity -->
 <div align="center">
-  <img src="koi/koi.gif" width="256" alt="My GitHub Koi — colored by languages, grown by contributions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1500&color=2196F3&center=false&vCenter=true&multiline=true&repeat=true&width=260&height=180&lines=🧬+KOI+TELEMETRY%3A;────────────────────────;•+Species%3A+Gold+Nishikigoi;•+Diet%3A+Daily+Git+Commits;•+Color%3A+Python+%26+ML;•+Status%3A+Swimming+Active" alt="Koi Telemetry" />
+  <img src="koi/koi.gif" width="220" height="180" style="object-fit: contain;" alt="My GitHub Koi — colored by languages, grown by contributions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&pause=1500&color=00EA64&center=false&vCenter=true&multiline=true&repeat=true&width=260&height=180&lines=🎮+ARCADE+ARENA%3A;────────────────────────;•+Top%3A+Space+Shooter;•+Mid%3A+Living+Koi+Pond;•+Bottom%3A+Snake+Eater;•+Cycle%3A+Re-rendered+Daily" alt="Arcade Arena" />
   <br />
   <sub>🐟 A pixel-art koi that evolves with my GitHub activity — redrawn nightly by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
 </div>
