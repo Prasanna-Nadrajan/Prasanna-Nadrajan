@@ -144,21 +144,12 @@ status: always_building: true
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prasanna-Nadrajan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2196F3&text_color=C9D1D9&langs_count=10" alt="Languages Compact" />
 </div>
 
-<!-- Activity Graph -->
+<!-- Deep-Dive Analytics: Languages & Peak Productive Hours -->
 <div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prasanna-Nadrajan&theme=tokyonight" alt="Contribution Activity Graph" />
-</div>
-
-<div align="center">
-
+  <br />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prasanna-Nadrajan&theme=tokyonight" alt="Repos per Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prasanna-Nadrajan&theme=tokyonight" alt="Most Commit Language" />
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prasanna-Nadrajan&theme=tokyonight&utcOffset=5.5" alt="Productive Time (IST)" />
-
-</div>
-
-<div align="center">
-  <img width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prasanna-Nadrajan&theme=tokyonight" alt="Profile Stats" />
 </div>
 
 ---
